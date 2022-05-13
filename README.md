@@ -2,7 +2,7 @@
 
 **NOTE: This project is out of date, please use https://github.com/snoopysecurity/dvws-node**
 
-05/12 - MFCx
+05/13 - MFCx
 
 Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities. The aim of this project is to help security professionals learn about Web Application Security through the use of a practical lab environment.
 
